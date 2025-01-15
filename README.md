@@ -1,4 +1,4 @@
-# Skoon - Flutter Islamic App
+# Qur'anuk - Flutter Islamic App
 
 <div style="display: flex; justify-content: space-around;">
   <img src="assets/screenshot2.jpg" alt="Screenshot 2" width="300">
@@ -10,12 +10,6 @@
 ## Overview
 
 Skoon is a comprehensive Islamic app built with Flutter. It offers a variety of features including Quran, Hadith, Quran audio, radio, the 99 names of Allah, Duaa, and more.
-## Demo Apk
-
-[Download Demo APK](https://drive.google.com/drive/folders/1WsFCFsHObbF4--v2sfog8ig8yzigSSoh?usp=sharing)  <!-- Replace # with your actual APK link -->
-
-![Download APK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3IsrHtOMd1RrrBrsKzF2EHLGydrhj6j4QVg&s)  <!-- Replace # with the actual image link of the download APK photo -->
-
 
 ## Features
 
@@ -26,7 +20,7 @@ Skoon is a comprehensive Islamic app built with Flutter. It offers a variety of 
 - **99 Names of Allah**: Learn and reflect on the 99 beautiful names of Allah.
 - **Duaa**: Collection of daily and special occasion supplications.
 - **And more**: Additional features to enhance your Islamic knowledge and practice.
-
+- **video**: An list like as YouTube.
 ## Getting Started
 
 To get started with the Skoon app, follow these steps:
