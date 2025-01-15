@@ -40,3 +40,5 @@ jobs:
       # want to change this to 'flutter test'.
       - name: Run tests
         run: dart test
+
+      # [![Dart](https://github.com/quranuk/Qur-anuk/actions/workflows/dart.yml/badge.svg?event=create)](https://github.com/quranuk/Qur-anuk/actions/workflows/dart.yml)
